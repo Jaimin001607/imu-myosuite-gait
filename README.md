@@ -10,3 +10,4 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 
+## To actually Run the code files we would need the motion files locally saved and renamed to code files if not automatically.

@@ -1,5 +1,7 @@
+cat > requirements.txt <<'EOF'
 numpy
 pandas
 scipy
 mujoco
 myosuite
+EOF

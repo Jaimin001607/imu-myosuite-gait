@@ -9,8 +9,8 @@ import mujoco.viewer
 # --------------------------
 # PATHS (EDIT THESE)
 # --------------------------
-MOT_PATH = "/Users/jaiminsuthar/Downloads/subject01_walk1_ik.mot"
-XML_PATH = "/Users/jaiminsuthar/myo_sim/leg/myolegs.xml"
+MOT_PATH = "/Users/"Users name"/Downloads/subject01_walk1_ik.mot"
+XML_PATH = "/Users/"Users name"/myo_sim/leg/myolegs.xml"
 
 # --------------------------
 # JOINTS TO DRIVE (MyoLeg)
